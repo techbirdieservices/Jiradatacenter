@@ -1,4 +1,5 @@
 
+### jira-config.properties
 
 ## To increase jiradatacenter indexing performace
 - Add below lines to jira-config.properties
