@@ -19,3 +19,4 @@ jira.index.snapshot.copy.archiver = zip
 ```sh
 #upgrade.reindex.allowed=false
 ```
+##
