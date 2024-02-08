@@ -15,7 +15,7 @@ index.use.snappy = false
 jira.index.snapshot.copy.archiver = zip
 ```
 
-## when upgradeing to 9.x to start auto-indexing.
+## when upgradeing to 9.x to start auto-indexing....
 ```sh
 #upgrade.reindex.allowed=false
 ```
