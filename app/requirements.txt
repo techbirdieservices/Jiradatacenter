@@ -1,0 +1,9 @@
+faiss-cpu
+numpy
+python-dotenv
+google-generativeai
+scikit-learn
+jira
+altair
+pandas
+streamlit
